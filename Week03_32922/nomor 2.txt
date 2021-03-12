@@ -1,0 +1,1 @@
+Pengujian yang dilakukan di app, berupa penambahan kata dengan mengklik fab pada menu add maka akan menampilkan kata selanjutnya dan keterangan ÒTelah DitambahkanÓ. Namun kata yang sudah ada lalu kita klik maka akan menampilkan keterangan bahwa ÒPernah DiklikÓ. 

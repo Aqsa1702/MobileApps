@@ -1,0 +1,1 @@
+2. Pada ketiga pertanyaan tersebut program akan quit, karena tidak menerima inputan kosong atau angka, solusi yang dapat dilakukan yaitu menambahkan sebuah code untuk menerima inputan kosong pada setiap angka 1 atau 2. namun, saya membuat snable dan disable button, ketika angka 1 dan 2 disi maka button baru muncul
